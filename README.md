@@ -17,7 +17,7 @@ Medical laboratory scientist (B.Sc. Laboratory Sciences, Kashan University of Me
 
 ## Tools
 
-Python (BioPython, Pandas, NumPy, SciPy, Matplotlib, Seaborn), R (ggplot2), BLAST, EMBOSS, MEGA, toytree
+Python (BioPython, Pandas, NumPy, SciPy, Matplotlib, Seaborn), BLAST, EMBOSS, MEGA, toytree
 
 ## Contact
 
