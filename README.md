@@ -15,9 +15,6 @@ Medical laboratory scientist (B.Sc. Laboratory Sciences, Kashan University of Me
 - **[Protein phylogenetic tree](LINK-TO-REPO)**: protein sequence distance analysis and UPGMA tree construction with BioPython.
 - **[Sequence analysis toolkit](LINK-TO-REPO)**: parsing, format conversion and alignment utilities.
 
-## Tools
-
-Python (BioPython, Pandas, NumPy, SciPy, Matplotlib, Seaborn), BLAST, EMBOSS, MEGA, toytree
 
 ## Contact
 
