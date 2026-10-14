@@ -12,7 +12,7 @@ Medical laboratory scientist (B.Sc. Laboratory Sciences, Kashan University of Me
 ## Projects
 
 - **[AVY motif retention in IGHV4-34 antibodies in SLE](https://github.com/ArdalanLab/ighv4-34-avy-sle)**: exploratory analysis of public OAS repertoire data from 7 SLE patients. In all 7, the self-reactivity motif AVY is retained less often in IgG than in IgM, with clone-aware bootstrap intervals and unit-tested code. A mutation-load analysis is in progress.
-- **[Protein phylogenetic tree](LINK-TO-REPO)**: protein sequence distance analysis and UPGMA tree construction with BioPython.
+- **[Protein phylogenetic tree](https://github.com/ArdalanLab/bioinformatics-toolkit/blob/main/sequence_utils/protein_phylogenetic_tree.py)**: protein sequence distance analysis and UPGMA tree construction with BioPython.
 - **[Sequence analysis toolkit](LINK-TO-REPO)**: parsing, format conversion and alignment utilities.
 
 ## Contact
